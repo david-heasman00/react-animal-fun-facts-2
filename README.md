@@ -23,6 +23,8 @@ This project was part of the React JSX module, and is intended to introduce the 
 
 **[You can see my code solution here.](https://github.com/david-heasman00/react-animal-fun-facts-2/blob/main/app.js)**
 
+*This project was written on the Codecademy IDE, and might be missing some elements to compile.*
+
 ## How can I speak to you?
 
 Want to chat about a project, or a potential opportunity? I'm happy to connect [on LinkedIn](https://www.linkedin.com/in/davidheasman/). Include a brief note in your connection request about why you're reaching out. 
